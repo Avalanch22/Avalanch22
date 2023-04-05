@@ -1,3 +1,5 @@
+<img align="centre" alt="banner" src="https://github.com/Avalanch22/Avalanch22/blob/main/banner.png?raw=true">
+
 <h1 align="center">Hi 👋, I'm Bishal Das</h1>
 <h3 align="center">I am currently pursuing my B.Tech degree in Information Technology</h3>
 
