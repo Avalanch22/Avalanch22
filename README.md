@@ -60,8 +60,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avalanch22&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=4ed710&icon_color=ab10d7&text_color=e8e8f0" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avalanch22&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=4ed710&text_color=e8e8f0" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Avalanch22&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=4ed710&icon_color=ab10d7&text_color=e8e8f0" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avalanch22&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=4ed710&text_color=e8e8f0" alt="Top Languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avalanch22&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=4ed710&fire=ab10d7&currStreakNum=e8e8f0&sideNums=e8e8f0&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
